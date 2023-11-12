@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm abin v</h1>
-- 🔭 I’m currently working on [darkweb](https://darkweb-rho.vercel.app/)
-
 - 🌱 I’m currently learning **Next Js,Python**
 
 - 📫 How to reach me **vniba.contact@gmail.com**
