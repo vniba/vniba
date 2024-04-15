@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abin v</h1>
-- 🌱 I’m currently learning ** Next Js,Python **
+- 🌱 I’m currently learning Go
 
 - 📫 How to reach me **vniba.contact@gmail.com**
 
